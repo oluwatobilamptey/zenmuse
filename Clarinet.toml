@@ -4,6 +4,10 @@ authors = []
 description = ""
 telemetry = false
 requirements = []
+[contracts.zenmuse-journal-entries]
+path = "contracts/zenmuse-journal-entries.clar"
+depends_on = []
+
 [contracts.zenmuse-user-profile]
 path = "contracts/zenmuse-user-profile.clar"
 depends_on = []
